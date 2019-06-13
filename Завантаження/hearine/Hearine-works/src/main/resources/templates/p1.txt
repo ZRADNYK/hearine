@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "Track 1",
+		"file"  : "https://res.cloudinary.com/hearine/video/upload/v1560197191/hearine_songs_data/e0a5ec59-2983-4286-9da9-9fb18097d55f.files.mp3",
+		"image" : "coverart.jpg"
+	},
+	{
+		"title" : "Track 2",
+		"file"  : "https://www.youtube.com/watch?v=5fuX8fpK-jo",
+		"image" : "coverart.jpg"
+	}
+]
